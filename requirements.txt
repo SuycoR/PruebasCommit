@@ -2,3 +2,4 @@ python-dotenv
 flask
 langchain
 langchain_openai
+commit nuevo
