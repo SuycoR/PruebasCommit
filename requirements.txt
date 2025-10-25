@@ -4,4 +4,4 @@ langchain
 langchain_openai
 commit nuevo
 openai
-opencsv 5.3
+opencsv 5.5
