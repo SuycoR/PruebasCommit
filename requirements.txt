@@ -3,3 +3,4 @@ flask
 langchain
 langchain_openai
 commit nuevo
+openai
